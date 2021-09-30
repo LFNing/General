@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T06:45:49.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.3.3" etag="OjCxo1SVjbQw2qf-OzHP" type="github"><diagram id="xyd82LHoWgVPv452YmSi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T06:52:15.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fqEmpxlAzO_dupnCG1ff" version="15.3.3" type="github">
+  <diagram id="xyd82LHoWgVPv452YmSi" name="Page-1">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;办公网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="175" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;生产网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="175" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-4" value="办公网机器" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="195" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;源代码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-6" value="码头" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-7" value="科技公司" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="435" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-8" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YLeiYI3CtM9J2ZpBMw2J-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="330" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-9" value="部署DPS，构建runner、镜像仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-10" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YLeiYI3CtM9J2ZpBMw2J-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-11" value="部署runner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLeiYI3CtM9J2ZpBMw2J-12" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;1.流水线开始，办公网机器拉取代码并构建为docker镜像，并上传到docker仓库&lt;/h1&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;span&gt;2.&lt;/span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;生产网络中的runner接收到部署任务，从办公网机器中的docker仓库拉取构建好的镜像并部署&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3.前提：生产网络的机器可以访问办公网机器&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="190" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
