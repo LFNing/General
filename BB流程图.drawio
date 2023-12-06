@@ -1,9 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:24:44.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="22.1.5" etag="Ycq-1WoOfFXCxgCReEwV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:56:40.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="MpkzWJmt0Hzyf7br5Bri" version="22.1.5" type="github">
   <diagram name="第 1 页" id="huQThDGv-8G8NNuIXjue">
-    <mxGraphModel>
+    <mxGraphModel dx="1122" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-1" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="296" y="20" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-2" value="订单处理和生产计划系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="122" width="191" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-3" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="224" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-4" value="碳足迹评估模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="224" width="127" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-5" value="数据分析和反馈" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="272" y="420" width="127" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-6" value="后端管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="296" y="531" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-7" value="用户订单" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4973821989528796;entryY=0.0055147058823529415;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-1" target="dUvGVehSbr8Q-rEk_FQs-2">
+          <mxGeometry x="-0.0041" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="88" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-8" value="生产计划和资源分配" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4954954954954955;entryY=0.011029411764705883;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-2" target="dUvGVehSbr8Q-rEk_FQs-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-9" value="生产过程模拟" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-3" target="dUvGVehSbr8Q-rEk_FQs-4">
+          <mxGeometry x="0.003" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="72" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-10" value="碳足迹数据" style="startArrow=none;endArrow=block;exitX=0.49606299212598426;exitY=0.9751838235294118;entryX=0;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-4" target="dUvGVehSbr8Q-rEk_FQs-5">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="437" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-11" value="系统优化和更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.49606299212598426;exitY=0.9806985294117647;entryX=0.4936708860759494;entryY=-0.001838235294117647;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-5" target="dUvGVehSbr8Q-rEk_FQs-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-12" value="用户选择与碳足迹反馈" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-1" target="dUvGVehSbr8Q-rEk_FQs-4">
+          <mxGeometry x="0.0007" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="37" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-13" value="生产数据反馈" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-2" target="dUvGVehSbr8Q-rEk_FQs-5">
+          <mxGeometry x="-0.001" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="139" />
+              <mxPoint x="460" y="437" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-14" value="实时生产数据" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-3" target="dUvGVehSbr8Q-rEk_FQs-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="336" y="300" />
+              <mxPoint x="336" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-15" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="235" y="636" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-16" value="产品配置" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="235" y="743" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-17" value="订单处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="235" y="845" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-18" value="生产计划系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="948" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-19" value="生产资源分配" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1057" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-20" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1152" width="111" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-21" value="生产监控" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1254" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-22" value="质量检验" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1356" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-23" value="物流管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="74" y="1459" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-24" value="客户" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1551" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-25" value="碳足迹评估" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="375" y="948" width="95" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-26" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1152" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-27" value="碳足迹报告" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1251" width="95" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-28" value="后端管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="586" y="1152" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-29" value="选择和定制产品" style="startArrow=none;endArrow=block;entryX=0.5031645569620253;entryY=0.0055147058823529415;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-15" target="dUvGVehSbr8Q-rEk_FQs-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-30" value="提交订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5031645569620253;exitY=0.9935661764705882;entryX=0.5031645569620253;entryY=0.011029411764705883;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-16" target="dUvGVehSbr8Q-rEk_FQs-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-31" value="生成生产计划" style="startArrow=none;endArrow=block;entryX=0.5;entryY=-0.012867647058823529;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-17" target="dUvGVehSbr8Q-rEk_FQs-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-32" value="资源分配" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49774774774774777;entryY=-0.007352941176470588;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-18" target="dUvGVehSbr8Q-rEk_FQs-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-33" value="生产模拟" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.4954954954954955;entryY=-0.001838235294117647;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="116" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-34" value="实时监控生产" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4936708860759494;entryY=0.003676470588235294;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-20" target="dUvGVehSbr8Q-rEk_FQs-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-35" value="生产完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.4936708860759494;exitY=0.9917279411764706;entryX=0.4936708860759494;entryY=0.009191176470588236;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-21" target="dUvGVehSbr8Q-rEk_FQs-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-36" value="产品准备发货" style="curved=1;startArrow=none;endArrow=block;exitX=0.4936708860759494;exitY=0.9972426470588235;entryX=0.4936708860759494;entryY=-0.014705882352941176;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-22" target="dUvGVehSbr8Q-rEk_FQs-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-37" value="产品发货" style="curved=1;startArrow=none;endArrow=block;exitX=0.4936708860759494;exitY=0.9733455882352942;entryX=0.48936170212765956;entryY=-0.009191176470588236;rounded=0;fontSize=12;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-23" target="dUvGVehSbr8Q-rEk_FQs-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-38" value="订单信息" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.49473684210526314;entryY=-0.001838235294117647;rounded=0;fontSize=12;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-17" target="dUvGVehSbr8Q-rEk_FQs-25">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="862" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-39" value="碳排放数据" style="startArrow=none;endArrow=block;exitX=0.49473684210526314;exitY=0.9862132352941176;entryX=0.75;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-25" target="dUvGVehSbr8Q-rEk_FQs-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-40" value="生成报告" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-26" target="dUvGVehSbr8Q-rEk_FQs-27">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="1268" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-41" value="碳足迹信息" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=0.75;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-27" target="dUvGVehSbr8Q-rEk_FQs-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="516" y="662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-42" value="资源使用情况" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-26">
+          <mxGeometry x="0.0022" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-43" value="生产数据" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-20" target="dUvGVehSbr8Q-rEk_FQs-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-44" value="优化建议" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-26" target="dUvGVehSbr8Q-rEk_FQs-18">
+          <mxGeometry x="0.2907" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="965" />
+            </Array>
+            <mxPoint x="326" y="1151" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-45" value="系统反馈" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-26" target="dUvGVehSbr8Q-rEk_FQs-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-46" value="系统更新和维护" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=0.25;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-28" target="dUvGVehSbr8Q-rEk_FQs-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="626" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
