@@ -1,88 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T11:51:53.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="MREhQOeF8Gea-W5QM8TN" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T11:55:05.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="TshKtR1DvYxXxVbMpu0p" version="22.1.5" type="github">
   <diagram name="第 1 页" id="huQThDGv-8G8NNuIXjue">
-    <mxGraphModel dx="795" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="545" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dUvGVehSbr8Q-rEk_FQs-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="176" y="1087" width="344" height="143" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-1" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="296" y="20" width="79" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-2" value="订单处理和生产计划系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="240" y="122" width="191" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-3" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="280" y="224" width="111" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-4" value="碳足迹评估模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="20" y="224" width="127" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-5" value="数据分析和反馈" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="272" y="420" width="127" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-6" value="后端管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Times New Roman;fontColor=#444444;" vertex="1" parent="1">
-          <mxGeometry x="296" y="531" width="79" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-7" value="用户订单" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4973821989528796;entryY=0.0055147058823529415;rounded=0;fontSize=12;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-1" target="dUvGVehSbr8Q-rEk_FQs-2">
-          <mxGeometry x="-0.0041" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="88" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-8" value="生产计划和资源分配" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4954954954954955;entryY=0.011029411764705883;rounded=0;fontSize=12;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-2" target="dUvGVehSbr8Q-rEk_FQs-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-9" value="生产过程模拟" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-3" target="dUvGVehSbr8Q-rEk_FQs-4">
-          <mxGeometry x="0.003" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="72" y="240" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-10" value="碳足迹数据" style="startArrow=none;endArrow=block;exitX=0.49606299212598426;exitY=0.9751838235294118;entryX=0;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-4" target="dUvGVehSbr8Q-rEk_FQs-5">
-          <mxGeometry x="0.0026" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="437" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-11" value="系统优化和更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.49606299212598426;exitY=0.9806985294117647;entryX=0.4936708860759494;entryY=-0.001838235294117647;rounded=0;fontSize=12;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-5" target="dUvGVehSbr8Q-rEk_FQs-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-12" value="用户选择与碳足迹反馈" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-1" target="dUvGVehSbr8Q-rEk_FQs-4">
-          <mxGeometry x="0.0007" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="84" y="37" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-13" value="生产数据反馈" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-2" target="dUvGVehSbr8Q-rEk_FQs-5">
-          <mxGeometry x="-0.001" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="139" />
-              <mxPoint x="460" y="437" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-14" value="实时生产数据" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-3" target="dUvGVehSbr8Q-rEk_FQs-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="336" y="300" />
-              <mxPoint x="336" y="390" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="dUvGVehSbr8Q-rEk_FQs-15" value="用户界面" style="whiteSpace=wrap;strokeWidth=1;fontSize=16;fontFamily=Times New Roman;rounded=1;fillColor=#9ac9db;strokeColor=none;fontColor=#444444;" vertex="1" parent="1">
           <mxGeometry x="226" y="780" width="80" height="34" as="geometry" />
@@ -134,9 +57,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-33" value="生产模拟" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4954954954954955;entryY=-0.001838235294117647;rounded=0;fontSize=12;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-20">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-33" value="生产模拟" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.4954954954954955;entryY=-0.001838235294117647;rounded=0;fontSize=12;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;labelBackgroundColor=none;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-20">
+          <mxGeometry x="-0.0106" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dUvGVehSbr8Q-rEk_FQs-38" value="订单信息" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=12;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-17" target="dUvGVehSbr8Q-rEk_FQs-25">
@@ -164,19 +88,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-42" value="资源使用情况" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-26">
-          <mxGeometry x="0.0043" relative="1" as="geometry">
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-42" value="资源使用情况" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=0;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;labelBackgroundColor=none;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-19" target="dUvGVehSbr8Q-rEk_FQs-26">
+          <mxGeometry x="-0.0922" y="-13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="1117" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dUvGVehSbr8Q-rEk_FQs-43" value="生产数据" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=1;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-20" target="dUvGVehSbr8Q-rEk_FQs-26">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="dUvGVehSbr8Q-rEk_FQs-43" value="生产数据" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=1;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;labelBackgroundColor=none;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-20" target="dUvGVehSbr8Q-rEk_FQs-26">
+          <mxGeometry x="-0.098" y="-13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="451" y="1197" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dUvGVehSbr8Q-rEk_FQs-44" value="优化建议" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;fontSize=12;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeColor=#2878b5;strokeWidth=2;fontColor=#444444;" edge="1" parent="1" source="dUvGVehSbr8Q-rEk_FQs-26" target="dUvGVehSbr8Q-rEk_FQs-18">
