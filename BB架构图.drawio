@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T07:35:50.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="bQBxNjZMF_LiAY7ENmst" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T07:37:50.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="VHfBn3np8Dv9Pefaskoy" version="22.1.5" type="github">
   <diagram name="第 1 页" id="2Q7EJ7l_47jYazfSLr18">
     <mxGraphModel dx="835" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,8 +59,8 @@
         <mxCell id="aD8HVvrzkeYgRYOUQNUD-107" value="产品定制" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;fontColor=#ffffff;rounded=1;fillColor=#647687;strokeColor=#314354;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="28" y="65" width="112" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="aD8HVvrzkeYgRYOUQNUD-120" value="用户数据" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.0055147058823529415;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#444444;fontStyle=1;shape=flexArrow;fillColor=#ffc101;strokeColor=none;labelBackgroundColor=none;" parent="1" target="aD8HVvrzkeYgRYOUQNUD-103" edge="1">
-          <mxGeometry x="-0.1235" y="-38" relative="1" as="geometry">
+        <mxCell id="aD8HVvrzkeYgRYOUQNUD-120" value="配置数据" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0.0055147058823529415;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#444444;fontStyle=1;shape=flexArrow;fillColor=#ffc101;strokeColor=none;labelBackgroundColor=none;" parent="1" target="aD8HVvrzkeYgRYOUQNUD-103" edge="1">
+          <mxGeometry x="-0.403" y="-41" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="111" y="100" as="sourcePoint" />
             <mxPoint as="offset" />
